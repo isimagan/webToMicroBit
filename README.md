@@ -31,7 +31,7 @@ Velg ``Importer fil``
 ![Steg 5](Steg5.PNG)
 
 ## Steg 6
-Trykk på ``Choose file`` eller ``Velg fil``. På menyen som kommer opp trykker du på den nederste. Det er litt forskjellig hva det pleier å stå, men vanligvis:
+Trykk på ``Choose file`` eller ``Velg fil``. På menyen som kommer opp trykker du på den nederste. Det er litt forskjellig hva det pleier å stå, men vanligvis en av disse:
 - ``Browse``
 - ``Naviger``
 - ``Choose file``
